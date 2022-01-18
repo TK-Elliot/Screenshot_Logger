@@ -4,7 +4,7 @@ This is a type of python malware that take screenshots on your target machine an
 It's inspired by Keylogger :)
 It only works for Windows.
 
-![alt text](https://github.com/TKLinux966/mal/blob/main/logger_2.png?raw=true)
+![alt text](https://github.com/TKLinux966/Screenshot_Logger/blob/main/logger_2.png?raw=true)
 
 ### Disclaimer
 This is for educational purposes only. I'm not responsible for any trouble you cause with this malware.
